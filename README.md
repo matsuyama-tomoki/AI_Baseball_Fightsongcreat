@@ -43,3 +43,7 @@ AIにより作成された歌詞を面白く捉えたり、真剣に考察した
   * 作成応援歌を実在球団によるカテゴライズを行い、球団別に応援歌を表示させるような機能。球団の人気具合がわかるかも・・??
 * チーム作成機能
   * 実際の打順のように1-9番まで自作応援歌（他の人が作ったもの含む）を設定でき、自分だけのオリジナルチームを作る機能
+
+
+### 画面遷移図
+https://www.figma.com/file/wGdRqaKO7rtxXK1Z1JKpE3/AI_Baseball_FightSong_image?type=design&node-id=16%3A1350&mode=design&t=wYZ3YSwSVdorIqbW-1
