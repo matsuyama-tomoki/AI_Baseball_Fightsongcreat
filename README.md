@@ -50,3 +50,18 @@ https://www.figma.com/file/wGdRqaKO7rtxXK1Z1JKpE3/AI_Baseball_FightSong_image?ty
 
 ### ER図
 https://lucid.app/lucidchart/fd94334b-16f9-4e41-a99b-988b00cf1563/edit?viewport_loc=-2205%2C-699%2C2646%2C1266%2C0_0&invitationId=inv_bdb76aeb-df47-46f9-a98f-1e4e00b0a031
+
+## 技術選定
+### 開発環境
+* Docker
+### バックエンド
+* Ruby on Rails 7.0.8
+* Ruby 3.0.4
+### フロントエンド
+* HotWire
+* CSSフレームワーク: bootstrap5系
+### WebAPI
+* Open AI
+### インフラ
+* DB: PostgreSQL
+* Server: Heroku
